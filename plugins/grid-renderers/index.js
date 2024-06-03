@@ -5,16 +5,7 @@ import {
 } from "../../common/plugin-element-cache";
 
 const textColors = [
-  "rgb(239 68 68)",
-  "rgb(249 115 22)",
-  "rgb(234 179 8)",
-  "rgb(132 204 22)",
-  "rgb(34 197 94)",
-  "rgb(20 184 166)",
-  "rgb(59 130 246)",
-  "rgb(139 92 246)",
-  "rgb(168 85 247)",
-  "rgb(217 70 239)",
+  "rgb(255 92 255)",
 ];
 
 export function handleGridPlugin(
