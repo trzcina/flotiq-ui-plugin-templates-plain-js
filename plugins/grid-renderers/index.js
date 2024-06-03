@@ -22,7 +22,7 @@ export function handleGridPlugin(
     element = document.createElement("div");
     element.classList.add("plugin-name-cell-renderer");
     if (inputType === "text") {
-      const textColor = textColors[Math.floor(Math.random() * 10)];
+      const textColor = 'red';
       element.style.color = textColor;
       element.textContent = data;
     } else if (inputType === "number") {
